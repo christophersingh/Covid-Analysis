@@ -1,0 +1,1 @@
+https://www.w3schools.com/python/python_ml_train_test.asp#:~:text=Train%2FTest%20is%20a%20method,set%20and%20a%20testing%20set.&text=You%20train%20the%20model%20using,model%20means%20create%20the%20model
