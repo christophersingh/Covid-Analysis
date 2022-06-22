@@ -107,7 +107,7 @@ nbserverproxy==0.8.8
 nltk==3.5
 notebook==6.0.3
 numexpr==2.7.1
-numpy==1.18.4
+numpy==1.22.0
 oauthlib==3.1.0
 openpyxl==3.0.4
 opt-einsum==3.2.1
